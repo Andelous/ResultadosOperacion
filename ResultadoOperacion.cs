@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DepartamentoServiciosEscolaresCBTis123.Logica.Utilerias
+namespace ResultadosOperacion
 {
     /// <summary>
     /// Representa el resultado de una operación llevada a cabo por la aplicación.
